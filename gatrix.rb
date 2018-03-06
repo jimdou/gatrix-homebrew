@@ -4,7 +4,7 @@
  class Gatrix < Formula
   desc ""
   homepage ""
-  url "https://github.com/jimdou/gatrix/archive/v1.0.0.tar.gz"
+  url "https://github.com/jimdou/gatrix/archive/v1.1.0.tar.gz"
   sha256 "eeffc7f64280ca3a79ca9fad9409b4d8784e9cc0aa51813d7b0b08b62953f18b"
 
   def install
